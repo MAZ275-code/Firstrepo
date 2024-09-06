@@ -1,3 +1,4 @@
 Moin Ahmed Zahir
 UIN: 01292798
 Major: Data Science and Analytics
+Spec: AI and ML
