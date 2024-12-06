@@ -36,7 +36,16 @@ The dataset has 150 cars in total. The median will be the value at the position:
 \text{Median Position} = \frac{150 + 1}{2} = 75.5
 
 Step 3: Cumulative Frequency
-To locate the median, we calculate the cumulative frequencies from the table: | Interval (Price in $1000) | Number of Cars | Cumulative Frequency | |---------------------------|----------------|-----------------------| | [10, 22)                 | 26             | 26                    | | [22, 27)                 | 25             | 51                    | | [27, 34)                 | 30             | 81                    | | [34, 46)                 | 29             | 110                   | | [46, 58)                 | 14             | 124                   | | [58, 70)                 | 14             | 138                   | | [70, 110)                | 12             | 150                   |
+To locate the median, we calculate the cumulative frequencies from the table: 
+| Interval (Price in $1000) | Number of Cars | Cumulative Frequency | 
+|---------------------------|----------------|-----------------------| 
+| [10, 22)                 | 26             | 26                    | 
+| [22, 27)                 | 25             | 51                    | 
+| [27, 34)                 | 30             | 81                    | 
+| [34, 46)                 | 29             | 110                   | 
+| [46, 58)                 | 14             | 124                   | 
+| [58, 70)                 | 14             | 138                   | 
+| [70, 110)                | 12             | 150                   |
 
 The 75th and 76th cars fall in the [27, 34) interval because the cumulative frequency reaches 81 in this interval.
 
